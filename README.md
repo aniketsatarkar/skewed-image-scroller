@@ -1,4 +1,4 @@
-# skewed-scroller-using-scrollmagic
+# Skewed Image Scroller Using Scrollmagic.io
 
 # [Demo](https://rahul-pxl.github.io/skewed-image-scroller)
 
